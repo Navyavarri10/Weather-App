@@ -32,7 +32,7 @@ This app uses the **OpenWeatherMap API**. You’ll need a free API key:
 3. Replace the placeholder in `script` section of your HTML:
    ```js
    const apiKey = "YOUR_API_KEY_HERE";
-````
+   ```
 
 ---
 
@@ -61,7 +61,7 @@ This app uses the **OpenWeatherMap API**. You’ll need a free API key:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Navyavarri10/weather-app.git
    ```
 2. Navigate into the folder:
 
@@ -84,9 +84,10 @@ You can deploy this on:
 
 ---
 
-## 🙋‍♀️ Author
+## 👩‍💻 Developed By
 
-**Navya Varri**
+**Varri Navya**
+Feel free to connect on [GitHub](https://github.com/Navyavarri10) 😊
 
 ---
 
