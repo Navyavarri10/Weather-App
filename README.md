@@ -84,16 +84,18 @@ You can deploy this on:
 
 ---
 
-## 👩‍💻 Developed By
-
-**Varri Navya**
-Feel free to connect on [GitHub](https://github.com/Navyavarri10) 😊
-
----
-
 ## 💡 Future Improvements (Optional Ideas)
 
 * 🌍 Auto-detect location using Geolocation API
 * 🌓 Dark mode toggle
 * 📅 5-day forecast view
 * 🌐 City autocomplete using Google Places API
+
+---
+
+## 👩‍💻 Developed By
+
+**Varri Navya**
+Feel free to connect on [GitHub](https://github.com/Navyavarri10) 😊
+
+---
