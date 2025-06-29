@@ -2,6 +2,8 @@
 
 A simple and beautiful Weather App built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/api) and displays information like temperature, humidity, wind speed, and weather conditions for a given city.
 
+## [Deployment Link](https://navyavarri10.github.io/Weather-App/)
+
 ---
 
 ## 🚀 Features
@@ -77,8 +79,10 @@ This app uses the **OpenWeatherMap API**. You’ll need a free API key:
 ## 📦 Deployment
 
 You can deploy this on:
+- [GitHub Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
 
-https://navyavarri10.github.io/Weather-App/
 ---
 
 ## 💡 Future Improvements (Optional Ideas)
