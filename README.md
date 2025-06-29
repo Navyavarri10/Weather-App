@@ -78,10 +78,7 @@ This app uses the **OpenWeatherMap API**. You’ll need a free API key:
 
 You can deploy this on:
 
-* [GitHub Pages](https://pages.github.com/)
-* [Netlify](https://www.netlify.com/)
-* [Vercel](https://vercel.com/)
-
+https://navyavarri10.github.io/Weather-App/
 ---
 
 ## 💡 Future Improvements (Optional Ideas)
